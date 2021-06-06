@@ -10,5 +10,9 @@ public class sum{
         if(s == "sub"){
             System.out.println(a-b);
         }
+
+        else{
+            System.out.println(a + b);
+        }
     }
 }
